@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[personal site]]></title>
+        <description><![CDATA[personal site]]></description>
+        <link>https://thegrid.ai/personal-site/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 29 May 2016 15:02:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/personal-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The World's Best Budget Airlines]]></title>
+            <description><![CDATA[<article><h1>The World's Best Budget Airlines</h1><p>Here are 10 of the best budget airlines in the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50f3082041c9f4d9872cb6ecfb9f3f494f138013.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/travel/nation/the-worlds-best-budget-airlines-southwest-easyjet-icelandair/travel</link>
+            <guid isPermaLink="false">9b029bb4-0657-4b0e-ab8c-f8f642fbaea3</guid>
+            <pubDate>Sun, 29 May 2016 15:02:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Word of Mouth: 24 Hours in Reykjavik]]></title>
+            <description><![CDATA[<article><h1>Word of Mouth: 24 Hours in Reykjavik</h1><p>by Adrienne So For a while now, Iceland has presented itself as a convenient layover destination for people traveling between Europe and North America-and not just because of its location in the middle of the Atlantic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/776c605854fff74ed112c78b39213ae1d40e5832.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/travel/word-of-mouth-24-hours-reykjavik</link>
+            <guid isPermaLink="false">cd74c692-4f40-4de6-bf1b-ffbe7f6bee8a</guid>
+            <pubDate>Sun, 29 May 2016 15:02:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Most Beautiful Mountains in the World]]></title>
+            <description><![CDATA[<article><h1>The Most Beautiful Mountains in the World</h1><p>Because the odds are slim we'll ever strap on a pair of crampons and/or buy a "Teamwork" Successories poster, we thought it'd be&hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b496619db57b77afcb89aef920994ac6e50e5fe.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/travel/nation/the-most-beautiful-mountains-in-the-world/travel</link>
+            <guid isPermaLink="false">1e102c52-6402-4973-987c-64bd9a891c2e</guid>
+            <pubDate>Sun, 29 May 2016 15:02:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
